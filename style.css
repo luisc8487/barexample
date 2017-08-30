@@ -125,7 +125,6 @@
   .navbar-custom.top-nav-collapse {
    padding: 0px;
    background-color: rgb(102, 102, 102);
-   /*background: blue;*/
    border-bottom: 1px solid rgba(255, 255, 255, 0.3);
   }
  }
@@ -152,7 +151,6 @@
  .intro {
   text-align: center;
   padding: 200px 0;
-  /*display: table;*/
   width: 100%;
   height: 754px;
   background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(img/bar-example.jpg) bottom center no-repeat;
@@ -184,61 +182,11 @@
 
  }
 
- /* .intro-text .brand-heading {*/
-
- /*  font-size: 40px;*/
-
- /*  line-height: 40px;*/
-
- /*  margin-bottom: 25px;*/
-
- /*  font-family: 'Droid Serif', 'Helvetica Neue', Helvetica, Arial, sans-serif*/
-
- /* }*/
-
- /*}*/
-
  ul.social-buttons {
   margin-bottom: 0;
  }
 
- /*ul.social-buttons li a {*/
 
- /* font-size: 20px;*/
-
- /* line-height: 40px;*/
-
- /* display: block;*/
-
- /* width: 40px;*/
-
- /* height: 40px;*/
-
- /* -webkit-transition: all .3s;*/
-
- /* -moz-transition: all .3s;*/
-
- /* transition: all .3s;*/
-
- /* color: #fff;*/
-
- /* border-radius: 100%;*/
-
- /* outline: 0;*/
-
- /* background-color: #222*/
-
- /*}*/
-
- /*ul.social-buttons li a:active,*/
-
- /*ul.social-buttons li a:focus,*/
-
- /*ul.social-buttons li a:hover {*/
-
- /* background-color: #fed136*/
-
- /*}*/
 
  .fa-facebook {
   /*display: block;*/
@@ -557,45 +505,6 @@
   width: 100%;
  }
 
- /*@media (min-width: 1200px) {*/
-
- /* .container {*/
-
- /*  max-width: 1140px;*/
-
- /* }*/
-
- /*}*/
-
- /*@media (min-width: 1000px) {*/
-
- /* .container {*/
-
- /*  max-width: 960px;*/
-
- /* }*/
-
- /*}*/
-
- /*@media (min-width: 768px) {*/
-
- /* .container {*/
-
- /*  max-width: 720px;*/
-
- /* }*/
-
- /*}*/
-
- /*@media (min-width: 576px) {*/
-
- /* .container {*/
-
- /*  max-width: 540px;*/
-
- /* }*/
-
- /*}*/
 
  .section-heading {
   text-align: center;
@@ -649,40 +558,6 @@
  .text-muted {
   text-align: center;
  }
-
- /*delete this section below*/
-
- /*.col-md-4 {*/
-
- /* margin: auto;*/
-
- /* position: relative;*/
-
- /* width: 33.333%;*/
-
- /* min-height: 1px;*/
-
- /* padding-right: 30px;*/
-
- /* padding-left: 30px;*/
-
- /*}*/
-
- /*.col-sm-6 {*/
-
- /* margin: auto;*/
-
- /* position: relative;*/
-
- /* width: 50%;*/
-
- /* min-height: 1px;*/
-
- /* padding-right: 30px;*/
-
- /* padding-left: 30px;*/
-
- /*}*/
 
  .img-responsive {
   max-width: 100%;
@@ -738,164 +613,3 @@
   right: 0;
   margin: 0 0 15px
  }
-
- /*#gallery .gallery-item .gallery-link {*/
- /* position: relative;*/
- /* display: block;*/
- /* height:250px;*/
- /* max-width: 400px;*/
- /* margin: 0 auto;*/
- /* cursor: pointer;*/
- /*}*/
-
- /*#gallery .gallery-item .gallery-link .gallery-hover {*/
- /* position: absolute;*/
- /* width: 100%;*/
- /* height: 100%;*/
- /* -webkit-transition: all ease .5s;*/
- /* -moz-transition: all ease .5s;*/
- /* transition: all ease .5s;*/
- /* opacity: 0;*/
- /* background: rgba(254, 209, 54, .9)*/
- /*}*/
-
- /*#gallery .gallery-item .gallery-link .gallery-hover:hover {*/
- /* opacity: 1*/
- /*}*/
-
- /*#gallery .gallery-item .gallery-link .gallery-hover .gallery-hover-content {*/
- /* font-size: 20px;*/
- /* position: absolute;*/
- /* top: 50%;*/
- /* width: 100%;*/
- /* height: 20px;*/
- /* margin-top: -12px;*/
- /* text-align: center;*/
- /* color: #fff*/
- /*}*/
-
- /*#gallery .gallery-item .gallery-link .gallery-hover .gallery-hover-content i {*/
- /* margin-top: -12px*/
- /*}*/
-
- /*#gallery .gallery-item .gallery-link .gallery-hover .gallery-hover-content h3,*/
- /*#gallery .gallery-item .gallery-link .gallery-hover .gallery-hover-content h4 {*/
- /* margin: 0*/
- /*}*/
-
- /*#gallery .gallery-item .gallery-caption {*/
- /* max-width: 400px;*/
- /* margin: 0 auto;*/
- /* padding: 25px;*/
- /* text-align: center;*/
- /* background-color: #fff*/
- /*}*/
-
- /*#gallery .gallery-item .gallery-caption h4 {*/
- /* margin: 0;*/
- /* text-transform: none*/
- /*}*/
-
- /*#gallery .gallery-item .gallery-caption p {*/
- /* font-size: 16px;*/
- /* font-style: italic;*/
- /* margin: 0;*/
- /* font-family: 'Droid Serif', 'Helvetica Neue', Helvetica, Arial, sans-serif*/
- /*}*/
-
- /*#gallery * {*/
- /* z-index: 2;*/
- /*}*/
-
- /*@media (min-width:767px) {*/
- /* #gallery .gallery-item {*/
- /*  margin: 0 0 30px;*/
- /* }*/
- /*}*/
-
- /*.gallery-modal .modal-dialog {*/
- /* max-width: none;*/
- /* height: 100%;*/
- /* margin: 0;*/
- /*}*/
-
- /*.gallery-modal .modal-content {*/
- /* min-height: 100%;*/
- /* padding: 100px 0;*/
- /* text-align: center;*/
- /* border: none;*/
- /* border-radius: 0;*/
- /* background-clip: border-box;*/
- /* -webkit-box-shadow: none;*/
- /* box-shadow: none*/
- /*}*/
-
- /*.gallery-modal .modal-content h2 {*/
- /* font-size: 3em;*/
- /* margin-bottom: 15px;*/
- /*}*/
-
- /*.gallery-modal .modal-content p {*/
- /* margin-bottom: 30px*/
- /*}*/
-
- /*.gallery-modal .gallery-content p.item-intro {*/
- /* font-size: 16px;*/
- /* font-style: italic;*/
- /* margin: 20px 0 30px;*/
- /* font-family: 'Droid Serif', 'Helvetica Neue', Helvetica, Arial, sans-serif*/
- /*}*/
-
- /*.gallery-modal .gallery-content ul.list-inline {*/
- /* margin-top: 0;*/
- /* margin-bottom: 30px*/
- /*}*/
-
- /*.gallery-modal .modal-content img {*/
- /* margin-bottom: 30px*/
- /*}*/
-
- /*.gallery-modal .modal-content button {*/
- /* cursor: pointer*/
- /*}*/
-
- /*.gallery-modal .close-modal {*/
- /* position: absolute;*/
- /* top: 25px;*/
- /* right: 25px;*/
- /* width: 75px;*/
- /* height: 75px;*/
- /* cursor: pointer;*/
- /* background-color: transparent*/
- /*}*/
-
- /*.gallery-modal .close-modal:hover {*/
- /* opacity: .3*/
- /*}*/
-
- /*.gallery-modal .close-modal .lr {*/
- /* z-index: 1051;*/
- /* width: 1px;*/
- /* height: 75px;*/
- /* margin-left: 35px;*/
- /* -webkit-transform: rotate(45deg);*/
- /* -ms-transform: rotate(45deg);*/
- /* transform: rotate(45deg);*/
- /* background-color: #222*/
- /*}*/
-
- /*.gallery-modal .close-modal .lr .rl {*/
- /* z-index: 1052;*/
- /* width: 1px;*/
- /* height: 75px;*/
- /* -webkit-transform: rotate(90deg);*/
- /* -ms-transform: rotate(90deg);*/
- /* transform: rotate(90deg);*/
- /* background-color: #222*/
- /*}*/
-
- /*.gallery-modal .modal-backdrop {*/
- /* display: none;*/
- /* opacity: 0;*/
- /*}*/
- 
